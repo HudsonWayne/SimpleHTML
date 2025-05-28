@@ -4,3 +4,7 @@
     box-sizing: border-box;
     font-family: 'Courier New', Courier, monospace;
 }
+.card{
+    background-color: aquamarine;
+    padding: 30px;
+}
